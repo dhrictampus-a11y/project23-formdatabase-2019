@@ -1,78 +1,139 @@
-# Project23 / FormDatabase — Restaurant Web System (2019)
+Project23 / FormDatabase — Restaurant Web System (2019)
 
-## Overview
+A short-term paid restaurant web-system project completed in less than one week in 2019.
 
-Project23 / FormDatabase was a short-term paid restaurant web-system project completed in less than one week in 2019.
+Overview
 
-The project was based on an existing PHP/MySQL application foundation. My role was to manually study the existing system and extensively modify it component-by-component to adapt it to the project's requirements.
+Project23 / FormDatabase was built from an existing PHP/MySQL application foundation. My role was to study the existing system, understand how its components worked together, and modify the application to meet the project's requirements.
 
-## My Contribution
+This project is an example of my early hands-on experience working with an unfamiliar codebase and rapidly adapting an existing system to a specific use case.
 
-My work included adapting and modifying parts of the existing application, including:
+What I Worked On
 
-- PHP application components
-- HTML/frontend components
-- MySQL/database functionality
-- Controllers
-- Models
-- Administrative components
-- Forms
-- Styling
-- Related integrations
+My work involved modifying and integrating parts of the existing application, including:
 
-The work involved understanding an unfamiliar existing codebase, determining how its components interacted, making the required modifications, and testing the resulting changes.
+PHP application components
 
-## Project Timeline
+HTML/frontend components
 
-- **Year:** 2019
-- **Duration:** Less than one week
-- **Project type:** Paid short-term project
-- **Archived evidence:** Original project files are dated December 12, 2019
+MySQL/database functionality
 
-## Authorship and Scope
+Controllers and models
 
-This repository documents my **adaptation and customization work** on the project.
+Administrative components
 
-I am not claiming authorship of the original application foundation. The original system already existed, and my contribution was to study, modify, integrate, and adapt it according to the project's requirements.
+Forms
 
-## Historical Archive
+Styling
 
-This GitHub repository was created later as a public historical record of the 2019 project.
+Related integrations
 
-The project did not originally exist as a Git repository, so this repository should **not** be interpreted as preserving the original Git history.
+The process involved examining the existing structure, tracing how components interacted, making the required changes, and testing the resulting behavior.
 
-## Evidence
+Project Details
 
-The original 2019 project files are preserved separately as archival evidence.
+Detail
 
-Selected screenshots, documentation, and non-sensitive files may be added here to demonstrate the work while protecting private information.
+Information
 
-## Privacy and Security
+Year
 
-Before publishing project files, sensitive information must be removed, including:
+2019
 
-- Passwords
-- API keys
-- Database credentials
-- Private configuration
-- Real customer or client information
-- Database dumps containing personal information
-- Private server credentials
+Duration
 
-Only files that can be safely redistributed should be included in the public repository.
+Less than one week
 
-## Skills Demonstrated
+Type
 
-- Existing-system analysis
-- PHP
-- MySQL
-- HTML
-- Web-system customization
-- Technical troubleshooting
-- Systems integration
-- Rapid learning
-- Rapid implementation
+Paid project
 
-## Note
+Domain
 
-This repository is intended primarily as a **historical portfolio and technical case study** documenting work performed in 2019.
+Restaurant web system
+
+Technology
+
+PHP, MySQL, HTML
+
+Evidence
+
+Original project files dated December 12, 2019
+
+My Role
+
+I worked on the project as the person responsible for adapting the existing system to the required functionality.
+
+The application foundation already existed. My contribution was the analysis, customization, modification, integration, and testing required to turn that existing system into the requested project.
+
+I am intentionally not claiming authorship of the original application.
+
+Why This Project Matters
+
+Project23 is part of my early technical history and demonstrates an approach I still use today:
+
+Understand the existing system → identify how its components interact → modify what is needed → integrate the changes → test the result.
+
+The project also gave me practical exposure to PHP/MySQL web applications before my later work expanded into systems integration, automation, infrastructure, and independent software projects.
+
+Historical Context
+
+This GitHub repository was created later as a public portfolio record of work performed in 2019.
+
+The original project was not developed as a Git repository, so this repository does not contain the original Git history.
+
+The original project files are preserved separately as historical evidence.
+
+Evidence & Media
+
+Selected screenshots, documentation, and other non-sensitive materials may be added to this repository to demonstrate the project.
+
+Original archival material may remain private where redistribution is not appropriate.
+
+Security & Privacy
+
+Before publishing any source files, sensitive or private information must be removed.
+
+This includes:
+
+Passwords and credentials
+
+API keys and tokens
+
+Database credentials
+
+Private configuration
+
+Real customer/client information
+
+Database dumps containing personal information
+
+Private server credentials
+
+Only material that can be safely redistributed should be published.
+
+Skills Demonstrated
+
+Existing-system analysis
+
+Systems integration
+
+Technical troubleshooting
+
+Web-system customization
+
+PHP
+
+MySQL
+
+HTML
+
+Rapid learning
+
+Rapid implementation
+
+Status
+
+Historical portfolio project — completed in 2019.
+
+This repository exists primarily to document and preserve the technical work and learning represented by the project.
